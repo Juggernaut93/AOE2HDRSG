@@ -1,9 +1,9 @@
 # AOE2HDRSG
 Age of Empires 2 HD - Random Settings Generator
 
-Welcome to the Age of Empires 2 HD - Random Settings Generator (or AOE2HDRSG for short :D)
+Welcome to the Age of Empires 2 HD - Random Settings Generator (or AOE2HDRSG for short :D).
 
-This Python 3 script will allow you to randomly generate settings for (what will most probably be) a crazy AOE2 game!
+This Python script will allow you to randomly generate settings for (what will most probably be) a crazy AOE2 game!
 
 The script supports all languages in which Age of Empires 2 HD has been localized (English, Brazilian Portuguese, German, Spanish, French, Italian, Japanese, Korean, Dutch, Russian and Simplified Chinese). It currently automatically selects the language based on you operating system's language (it will soon be possible to manually select a language). If your OS language is not supported, English will be used. If you are using Windows with Japanese, Chinese or Korean, be sure to have configured the command prompt to support the correct visualization of East Asian languages.
 
@@ -28,3 +28,6 @@ The code includes the conversion from the AOE2 HD localization text files to the
   - en.txt
   - ...
 Then you must delete the old `res/strings.pkl` file and run the script as usual. The tool will automatically generate the new pkl file.
+
+## License
+Until I choose a proper license, you can basically use this code non-commercially wherever you want citing the original source (i.e. this repository). Contact me before any usage, just because I want to know if this script was useful to anyone :D
