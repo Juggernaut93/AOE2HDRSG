@@ -27,6 +27,7 @@ The code includes the conversion from the AOE2 HD localization text files to the
   - de.txt
   - en.txt
   - ...
+
 Then you must delete the old `res/strings.pkl` file and run the script as usual. The tool will automatically generate the new pkl file.
 
 ## License
