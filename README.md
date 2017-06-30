@@ -7,6 +7,8 @@ This Python script will allow you to randomly generate settings for (what will m
 
 The script supports all languages in which Age of Empires 2 HD has been localized (English, Brazilian Portuguese, German, Spanish, French, Italian, Japanese, Korean, Dutch, Russian and Simplified Chinese). It currently automatically selects the language based on you operating system's language (it will soon be possible to manually select a language). If your OS language is not supported, English will be used. If you are using Windows with Japanese, Chinese or Korean, be sure to have configured the command prompt to support the correct visualization of East Asian languages.
 
+![Example screen](example.png)
+
 **Note:** currently there is no option to exclude expansions maps/settings from the generator. Support will probably be added in the hopefully-not-so-distant future.
 
 ## Requirements
