@@ -9,7 +9,7 @@ The script supports **all languages** in which Age of Empires 2 HD has been loca
 
 ![Example screen](example.png)
 
-**Note:** currently there is no option to exclude expansions maps/settings from the generator. Support will probably be added in the hopefully-not-so-distant future.
+**Note:** currently there is no option to exclude expansions' maps/settings from the generator. Support will probably be added in the hopefully-not-so-distant future.
 
 ## Requirements
 The requirements are:
