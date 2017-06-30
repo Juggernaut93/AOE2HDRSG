@@ -22,7 +22,7 @@ Then you can press Enter as many times as you want to reroll the settings. Type 
 
 ## Additional notes
 The code includes the conversion from the AOE2 HD localization text files to the stripped down pkl file available here. The code only preserves strings that are actually used by the tool. If you want to change the code adding more strings, you have to copy the txt files `<AOE2 HD folder>/resources/<language>/strings/key-value/key-value-strings-utf8.txt` in the `/res` folder and rename each of them to `<language>.txt`. You have to organize the folder like this:
-- \res
+- /res
   - br.txt
   - de.txt
   - en.txt
