@@ -555,7 +555,7 @@ class RSG(metaclass=Singleton):
 
 
 if __name__ == '__main__':
-	print('-------- Welcome to the Age Of Empires 2 HD Random Settings Generator --------')
+	print('-------- Welcome to the Age of Empires 2 HD Random Settings Generator --------')
 	print('This script will generate for you random settings for a crazy game!')
 	print()
 	os.chdir(os.path.dirname(os.path.abspath(__file__)))
